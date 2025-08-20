@@ -1,0 +1,12 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data
+.RData
+
+# User-specific files
+.Rproj.user/
+
+# Shiny deploy files
+rsconnect/
